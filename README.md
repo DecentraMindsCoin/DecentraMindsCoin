@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DecentraMindsCoin or you can just call me Larry a passionate React & Next.js Developer seeking new opportunity to grow!
 - 💞️ I Love to create, design, and develop responsive web applications in React, Next.js, & Node.js ecosystem!
-- 😎 I like to add style to apps with CSS, Sass, Tailwind CSS, SpringBoot, Headless UI, Framer Motion among other softwares and technologies!
+- 😎 I like to add style to apps with CSS, Tailwind CSS, Headless UI, Framer Motion among other softwares and technologies!
 - 🌱 I am proficient building apps using React & Next.js! Always learning always growing!
 - 🔙 I have worked on a variety of backends utilizing tools like Node.js, Apollo, GraphQL, Sanity.io, Prisma, and MongoDb
 - 🧠 I am a fast learner, that wants to continue to seek new challenges and solve complex programs with design and code!
