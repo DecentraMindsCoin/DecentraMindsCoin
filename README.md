@@ -12,4 +12,6 @@
 DecentraMindsCoin/DecentraMindsCoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+To View Private Repo's, email me directly at decentraminds.com
 ![Screen Shot 2022-06-14 at 8 29 14 PM](https://user-images.githubusercontent.com/79233984/173723667-c9316555-f36a-471f-81aa-96359226367c.png)
+![Screen Shot 2022-06-14 at 8 31 27 PM](https://user-images.githubusercontent.com/79233984/173723862-024f406c-eabc-4b23-90e4-96669296507e.png)
