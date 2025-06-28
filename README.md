@@ -3,7 +3,7 @@
 - 😎 I like to add style to apps with CSS, Tailwind CSS, Headless UI, Framer Motion among other softwares and technologies!
 - 🌱 I am proficient building apps using React & Next.js! Always learning always growing!
 - 🔙 I have worked on a variety of backends utilizing tools like Node.js, Supabase, Apollo, GraphQL, Sanity.io, Prisma, and MongoDb
-- 🧠 I am a fast learner, that wants to continue to seek new challenges and solve complex programs with design and code!
+- 🧠 I am a fast learner, that wants to continue to seek new challenges and solve complex problems with design and code!
 - 👀 I’m looking to make an immediate impact with a great team and company in United States!
 - 👽 I dont just code, I am an avid Product & UX Designer familiar with everything design like Figma, Adobe, Framer,  Blender 3d, Three.js, and more!
 - 📫 How to reach me? Send me an email @decentraminds@gmail.com
